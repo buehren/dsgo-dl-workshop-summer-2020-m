@@ -5,7 +5,7 @@ __pycache__/
 
 #Data and models
 #data/
-data*
+#data*
 models/
 *.tmp
 #*.pkl
