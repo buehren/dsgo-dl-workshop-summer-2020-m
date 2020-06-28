@@ -4,11 +4,11 @@ __pycache__/
 *$py.class
 
 #Data and models
-data/
+#data/
 data*
 models/
 *.tmp
-*.pkl
+#*.pkl
 
 # C extensions
 *.so
